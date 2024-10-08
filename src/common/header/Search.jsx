@@ -14,7 +14,7 @@ const Search = ({ CartItem }) => {
       <section className='search'>
         <div className='container c_flex'>
           <div className='logo width '>
-            <img src="kimologo" alt='' />
+            <img src="../../../public/images/favicon.png" alt='' />
             <h2>Soft markup</h2>
           </div>
 
