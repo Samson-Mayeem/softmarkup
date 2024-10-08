@@ -31,9 +31,9 @@ const Footer = () => {
           <div className='box'>
             <h2>Contact Us</h2>
             <ul>
-              <li>70 Washington Square South, New York, NY 10012, United States </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>East Legon, Accra, GH 10012, Ghana </li>
+              <li>Email: info@softmarkup.com</li>
+              <li>Phone: +233551052663</li>
             </ul>
           </div>
         </div>

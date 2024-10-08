@@ -7,9 +7,9 @@ const Head = () => {
         <div className='container d_flex'>
           <div className='left row'>
             <i className='fa fa-phone'></i>
-            <label> +23355 345 7894</label>
+            <label> +23355 10526 63</label>
             <i className='fa fa-envelope'></i>
-            <label> support@kimo.com</label>
+            <label> info@softmarkup.com</label>
           </div>
           <div className='right row RText'>
             <label>Theme FAQ"s</label>
